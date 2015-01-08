@@ -2,12 +2,12 @@
   "title": "Elevage primaire",
   "name": "elevage-primaire",
   "sources": [{
-        "name": "UN Data",
+        "name": "FAOstat",
         "web": "http://faostat3.fao.org"
     }],
   "contributors":[ {
-      "name": "Ibrahima SENE",
-      "email": "seneibrahima@gmail.com"
+      "name": "Mamadou Diagne",
+      "email": "genova@dofbi.com"
   }],
   "licenses": [
       {
